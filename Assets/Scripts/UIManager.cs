@@ -61,8 +61,8 @@ public class UIManager : MonoBehaviour
             }
 
             imageDamage.enabled = false;
-            FadeAwayCanActive = true;
         }
+        FadeAwayCanActive = true;
 
     }
 
